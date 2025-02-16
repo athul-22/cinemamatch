@@ -2,7 +2,7 @@
 
 CinemaMatch is an intelligent movie recommendation system that uses advanced AI to suggest similar movies based on plot, themes, and style. The system combines TMDB data, OpenAI embeddings, and ChromaDB for vector similarity search to deliver accurate and context-aware movie recommendations.
 
-![CinemaMatch Demo](demo-screenshot.png)
+<!-- ![CinemaMatch Demo](demo-screenshot.png) -->
 
 ## 🌟 Features
 
@@ -43,7 +43,7 @@ Frontend (React + Vite)        Backend (FastAPI)           External Services
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/cinemamatch.git
+    git clone https://github.com/athul-22/cinemamatch.git
     cd cinemamatch
     ```
 
